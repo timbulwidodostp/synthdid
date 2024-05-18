@@ -1,6 +1,8 @@
 # synthdid
 Synthetic Difference In Differences (DID) Estimation Use synthdid With (In) R Software
 
+https://www.youtube.com/watch?v=tMhjP7bqM3A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
